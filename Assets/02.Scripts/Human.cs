@@ -19,4 +19,5 @@ public class Human : MonoBehaviour
     public void PowerPush(){
         print("힘껏 장 내 물질을 밀어낸다..");
     }
+    
 }
